@@ -1,0 +1,67 @@
+﻿Environment at start of build:
+ADAPTIVACLIENT = "C:\Program Files (x86)\Adaptiva\AdaptivaClient"
+ALLUSERSPROFILE = C:\ProgramData
+APPDATA = C:\Users\yaohuap\AppData\Roaming
+asl.log = Destination=file
+BMC_AR_SYSTEM_HOME = C:\Program Files\BMC Software\ARSystem
+CommonProgramFiles = C:\Program Files (x86)\Common Files
+CommonProgramFiles(x86) = C:\Program Files (x86)\Common Files
+CommonProgramW6432 = C:\Program Files\Common Files
+COMPUTERNAME = SGYAOHUAP-C1
+ComSpec = C:\WINDOWS\system32\cmd.exe
+DEFLOGDIR = C:\ProgramData\McAfee\DesktopProtection
+DXSDK_DIR = C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\
+FP_NO_HOST_CHECK = NO
+HOMEDRIVE = C:
+HOMEPATH = \Users\yaohuap
+JAVAWS_VM_ARGS = -Djava.net.preferIPv4Stack=true
+LOCALAPPDATA = C:\Users\yaohuap\AppData\Local
+LOGONSERVER = \\AP01SG0KVDCR1
+MSBuildLoadMicrosoftTargetsReadOnly = true
+NUMBER_OF_PROCESSORS = 4
+OS = Windows_NT
+Path = C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Android\SDK\platform-tools\;C:\tools\putty;C:\Program Files (x86)\SafeCom\SafeComPrintClient;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Program Files (x86)\IDM Computer Solutions\UltraEdit-32
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PkgDefApplicationConfigFile = C:\Users\yaohuap\AppData\Local\Microsoft\VisualStudio\14.0\devenv.exe.config
+PROCESSOR_ARCHITECTURE = x86
+PROCESSOR_ARCHITEW6432 = AMD64
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 58 Stepping 9, GenuineIntel
+PROCESSOR_LEVEL = 6
+PROCESSOR_REVISION = 3a09
+ProgramData = C:\ProgramData
+ProgramFiles = C:\Program Files (x86)
+ProgramFiles(x86) = C:\Program Files (x86)
+ProgramW6432 = C:\Program Files
+PSModulePath = C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\;C:\Program Files\Intel\
+PUBLIC = C:\Users\Public
+SESSIONNAME = Console
+startpath = C:\local_installation_source\Checkpoint-client\CheckpointVPNClient8060XPW7
+SystemDrive = C:
+SystemRoot = C:\WINDOWS
+TEMP = C:\Users\yaohuap\AppData\Local\Temp
+TMP = C:\Users\yaohuap\AppData\Local\Temp
+UATDATA = C:\WINDOWS\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77
+USERDNSDOMAIN = AP01.LUCENT.COM
+USERDOMAIN = AP01
+USERDOMAIN_ROAMINGPROFILE = AP01
+USERNAME = yaohuap
+USERPROFILE = C:\Users\yaohuap
+VBOX_MSI_INSTALL_PATH = C:\Applications\Oracle\VirtualBox\
+VisualStudioDir = C:\Users\yaohuap\Documents\Visual Studio 2015
+VisualStudioEdition = Microsoft Visual Studio Community 2015
+VisualStudioVersion = 14.0
+VS140COMNTOOLS = C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\
+VSEDEFLOGDIR = C:\ProgramData\McAfee\DesktopProtection
+VSLANG = 1033
+VSSDK140Install = C:\Program Files (x86)\Microsoft Visual Studio 14.0\VSSDK\
+windir = C:\WINDOWS
+windows_tracing_flags = 3
+windows_tracing_logfile = C:\BVTBin\Tests\installpackage\csilogfile.log
+
+  Generating code
+  0 of 76 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  X2DCLI.vcxproj -> C:\Users\yaohuap\Documents\source\Visuall_Studio\X2DCLI\Release\X2DCLI.exe
+  X2DCLI.vcxproj -> C:\Users\yaohuap\Documents\source\Visuall_Studio\X2DCLI\Release\X2DCLI.pdb (Full PDB)
