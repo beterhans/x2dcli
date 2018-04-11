@@ -17,6 +17,8 @@ And this is intentional by Microsoft. so they knew it and won't fix it.
 
 ----- Solution ------
 take the new Xinput data to a virtual old Directinput gamepad with 2 axises.
+Video DEMO on Youtube
+https://www.youtube.com/watch?v=UERyvjPWFsQ
 
 ----- Installation --
 X2DCLI is portable. no install is needed. but it's just part of the sulution.
