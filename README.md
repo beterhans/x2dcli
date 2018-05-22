@@ -43,6 +43,6 @@ To activate these modes, answer runmode as 1 or 2.
 Sometimes the game will take the axis inverted (press is no gas, no press is gas). If you found the axis is inverted try re-assign again make sure this time the direction is different.
 
 
---- Donate ---
+## Donate
 Please donate me if you like this little app.
 Paypal: beterhans.sg@gmail.com
