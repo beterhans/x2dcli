@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(367,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  X2DCLI.cpp
+c:\users\yaohuap\documents\source_code\visualstudio_projects\x2dcli\x2dcli\vjoysdk\inc\vjoyinterface.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\yaohuap\documents\source_code\visualstudio_projects\x2dcli\x2dcli\x2dcli.cpp(33): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\yaohuap\documents\source_code\visualstudio_projects\x2dcli\x2dcli\x2dcli.cpp(38): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  X2DCLI.vcxproj -> C:\Users\yaohuap\Documents\source_code\VisualStudio_Projects\X2DCLI\bin\Win32Debug\X2DCLI.exe
+  X2DCLI.vcxproj -> C:\Users\yaohuap\Documents\source_code\VisualStudio_Projects\X2DCLI\bin\Win32Debug\X2DCLI.pdb (Full PDB)
