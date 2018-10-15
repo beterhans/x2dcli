@@ -1,0 +1,22 @@
+Apply All configurations all platforms
+
+Solution
+	Project
+		General
+			Output Directory	$(SolutionDir)bin\$(Platform)$(Configuration)
+			Intermediate Dir	$(SolutionDir)bin\intermediate\$(Platform)$(Configuration)
+			Platform Toolset	(v140_xp)
+			User of MFC		Static Library
+			Character Set		Use Unicode
+		VC++
+			Additional Include Directories	$(SolutionDir)vjoySDK\
+		Linker
+			Additional Library Directories	$(SolutionDir)vjoySDK\lib\win32				or 64
+			
+		Build Events
+			Post Build Events	Command Line 
+				xcopy /y "$(SolutionDir)vjoySDK\lib\amd64\*.dll" "$(TargetDir)"
+			Post Build Events	Command Line 
+				xcopy /y "$(SolutionDir)vjoySDK\lib\win32\*.dll" "$(TargetDir)"
+			
+			
